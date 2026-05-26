@@ -1,3 +1,4 @@
+# работа с базами данных через SQLAlchemy
 from sqlalchemy import create_engine
 from sqlalchemy.engine import make_url
 from sqlalchemy.exc import ArgumentError
